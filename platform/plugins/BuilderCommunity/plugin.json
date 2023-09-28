@@ -1,0 +1,12 @@
+{
+    "id":"plugin-buildercommunity-c5ab3027-e5de-4db6-b858-3974fd4ded3d2270541",
+    "name": "BuilderCommunity",
+    "version":"v1.0.0",
+    "alias": "buildercommunity",
+    "description": "",
+    "keywords": [],
+    "priority": 200,
+    "aliases": {},
+    "namespace":"BytePlugin\\BuilderCommunity",
+    "requires": []
+}

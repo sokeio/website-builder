@@ -1,0 +1,24 @@
+{
+    "name": "byteplatform/plugin-buildercommunity",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nguyen Van Hau",
+            "email": "nguyenvanhaudev@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": ["BytePlugin\\BuilderCommunity\\BuilderCommunityServiceProvider"],
+            "aliases": {}
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "BytePlugin\\BuilderCommunity\\": "src",
+            "BytePlugin\\BuilderCommunity\\Widget\\": "widgets",
+            "BytePlugin\\BuilderCommunity\\Database\\Factories\\": "database/factories",
+            "BytePlugin\\BuilderCommunity\\Database\\Seeders\\": "database/seeders"
+        }
+    }
+}
