@@ -2,9 +2,9 @@
 <img src="https://laravel.com/assets/img/components/logo-laravel.svg">
 </p>
 
-# Laravel Boilerplate
+# laravel builder community
 
-Touch Star Follow package: https://github.com/byteplatform/byteplatform
+Touch Star Follow package: https://github.com/byteplatform/byteplatform and https://github.com/byteplatform/builder
 
 ## Feature(New):
 
@@ -43,7 +43,7 @@ $ php artisan vendor:publish --tag=lfm_public
 
 ```
 
-***Note***: If the interface is experiencing an error, please delete the 'bykit' folder within the 'public' folder and refresh the website page. The error should be resolved automatically.
+**_Note_**: If the interface is experiencing an error, please delete the 'bykit' folder within the 'public' folder and refresh the website page. The error should be resolved automatically.
 
 ```bash
 account: admin@hau.xyz
