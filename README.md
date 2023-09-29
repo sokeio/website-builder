@@ -6,6 +6,10 @@
 
 Touch Star Follow package: https://github.com/byteplatform/byteplatform and https://github.com/byteplatform/builder
 
+Video Tutorial:
+
+[<img src="https://i.ytimg.com/vi/fVEFetzyhTM/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=fVEFetzyhTM&t=8s)
+
 # Template Block for builder
 
 ```html
