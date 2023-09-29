@@ -72,7 +72,7 @@ $ php artisan vendor:publish --tag=lfm_public
 
 ```
 
-**_Note_**: If the interface is experiencing an error, please delete the 'bykit' folder within the 'public' folder and refresh the website page. The error should be resolved automatically.
+**_Note_**: If the interface is experiencing an error, please delete the 'platform' folder within the 'public' folder and refresh the website page. The error should be resolved automatically.
 
 ```bash
 account: admin@hau.xyz
