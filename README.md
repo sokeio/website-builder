@@ -23,6 +23,7 @@ Folder Template: */resources/template-builders/*
 ```html
 <!--
     template name:name demo
+    template type:pro
     topic: boostrap 5,hello
     category: common
     anthor: nguyen van hau
