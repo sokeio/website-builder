@@ -28,7 +28,7 @@ Folder Template: */resources/template-builders/*
     category: common
     anthor: nguyen van hau
     email:nguyenvanhaudev@gmail.com
-    thumbnail:platform/plugins/BuilderCommunity/template/hero0.jpg
+    thumbnail:
     description:
 -->
 <div class="px-4 py-5 my-5 text-center">
