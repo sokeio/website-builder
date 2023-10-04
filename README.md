@@ -6,9 +6,9 @@
 
 Touch Star Follow package: https://github.com/byteplatform/byteplatform and https://github.com/byteplatform/builder
 
-demo: https://bytech.asia/
+Demo: https://bytech.asia/
 
-login: https://bytech.asia/admin/auth/login
+Login: https://bytech.asia/admin/auth/login
 
 demo@hau.xyz/Demo@123
 
@@ -18,6 +18,8 @@ Video Tutorial:
 
 # Template Block for builder
 
+Folder Template: */resources/template-builders/*
+
 ```html
 <!--
     template name:name demo
@@ -26,9 +28,7 @@ Video Tutorial:
     anthor: nguyen van hau
     email:nguyenvanhaudev@gmail.com
     thumbnail:platform/plugins/BuilderCommunity/template/hero0.jpg
-    description:dfàà
-    ádfadsfà
-    ádfádfá
+    description:
 -->
 <div class="px-4 py-5 my-5 text-center">
     <img class="d-block mx-auto mb-4" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg" alt="" width="72"
