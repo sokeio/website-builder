@@ -6,6 +6,12 @@
 
 Touch Star Follow package: https://github.com/byteplatform/byteplatform and https://github.com/byteplatform/builder
 
+demo: https://bytech.asia/
+
+login: https://bytech.asia/admin/auth/login
+
+demo@hau.xyz/Demo@123
+
 Video Tutorial:
 
 [<img src="https://i.ytimg.com/vi/fVEFetzyhTM/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=fVEFetzyhTM&t=8s)
