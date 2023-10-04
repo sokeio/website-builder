@@ -18,6 +18,8 @@ Video Tutorial:
 
 # Template Block for builder
 
+[<img src="https://i.ytimg.com/vi/Q55kWB3C-Ec/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Q55kWB3C-Ec&t=0s)
+
 Folder Template: */resources/template-builders/*
 
 ```html
