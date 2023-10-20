@@ -4,7 +4,7 @@ namespace BytePlugin\BuilderCommunity;
 
 use Illuminate\Support\ServiceProvider;
 use BytePlatform\Laravel\ServicePackage;
-use BytePlatform\Traits\WithServiceProvider;
+use BytePlatform\Concerns\WithServiceProvider;
 
 class BuilderCommunityServiceProvider extends ServiceProvider
 {
