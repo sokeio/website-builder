@@ -16,7 +16,6 @@
     "autoload": {
         "psr-4": {
             "BytePlugin\\BuilderCommunity\\": "src",
-            "BytePlugin\\BuilderCommunity\\Widget\\": "widgets",
             "BytePlugin\\BuilderCommunity\\Database\\Factories\\": "database/factories",
             "BytePlugin\\BuilderCommunity\\Database\\Seeders\\": "database/seeders"
         }
