@@ -2,7 +2,7 @@
 <img src="https://laravel.com/assets/img/components/logo-laravel.svg">
 </p>
 
-# laravel builder community
+# laravel page builder community
 
 Touch Star Follow package: https://github.com/byteplatform/byteplatform and https://github.com/byteplatform/builder
 
