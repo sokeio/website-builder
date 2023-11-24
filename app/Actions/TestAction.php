@@ -2,7 +2,7 @@
 
 namespace App\Actions;
 
-use BytePlatform\Concerns\WithAction;
+use Sokeio\Concerns\WithAction;
 
 class TestAction
 {

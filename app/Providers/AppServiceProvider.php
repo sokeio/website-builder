@@ -3,8 +3,8 @@
 namespace App\Providers;
 
 use App\Actions\TestAction;
-use BytePlatform\Facades\Shortcode;
-use BytePlatform\Item;
+use Sokeio\Facades\Shortcode;
+use Sokeio\Item;
 use Illuminate\Support\ServiceProvider;
 
 class AppServiceProvider extends ServiceProvider

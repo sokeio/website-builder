@@ -4,7 +4,15 @@
 
 # laravel page builder community
 
-Touch Star Follow package: https://github.com/byteplatform/byteplatform and https://github.com/byteplatform/builder
+Touch Star Follow package: 
+
+https://github.com/sokeio/framework
+
+https://github.com/sokeio/admin 
+
+https://github.com/sokeio/laravel 
+
+ https://github.com/sokeio/grapesjs-builder
 
 Demo: https://pagebuilder.asia/
 
@@ -134,7 +142,7 @@ $ php artisan mb:theme Demo3 -a true -t theme -f true
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-https://github.com/byteplatform/byteplatform/discussions
+https://github.com/sokeio/sokeio/discussions
 
 Please make sure to update tests as appropriate.
 
