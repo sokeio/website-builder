@@ -6,16 +6,16 @@
     "license": "MIT",
     "require": {
         "php": "^8.1",
+        "guzzlehttp/guzzle": "^7.2",
+        "laravel/framework": "^10.10",
+        "laravel/sanctum": "^3.2",
+        "laravel/tinker": "^2.8",
         "sokeio/laravel": "dev-main",
         "sokeio/framework": "dev-main",
         "sokeio/admin": "dev-main",
         "sokeio/seo": "dev-main",
         "sokeio/cms": "dev-main",
         "sokeio/grapesjs-builder": "dev-main",
-        "guzzlehttp/guzzle": "^7.2",
-        "laravel/framework": "^10.10",
-        "laravel/sanctum": "^3.2",
-        "laravel/tinker": "^2.8"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
