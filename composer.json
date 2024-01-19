@@ -10,6 +10,7 @@
         "sokeio/framework": "dev-main",
         "sokeio/admin": "dev-main",
         "sokeio/seo": "dev-main",
+        "sokeio/cms": "dev-main",
         "sokeio/grapesjs-builder": "dev-main",
         "guzzlehttp/guzzle": "^7.2",
         "laravel/framework": "^10.10",
