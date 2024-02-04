@@ -3,9 +3,8 @@
 namespace App\Providers;
 
 use App\Actions\TestAction;
-use Sokeio\Facades\Shortcode;
-use Sokeio\Item;
 use Illuminate\Support\ServiceProvider;
+use Sokeio\Cms\Facades\Shortcode;
 
 class AppServiceProvider extends ServiceProvider
 {
@@ -23,10 +22,5 @@ class AppServiceProvider extends ServiceProvider
     public function boot(): void
     {
         //
-        Shortcode::register([
-            Shortcode::Create('test')->View('shortcodes.test')->Title('App Test')->Parameters([
-                Item::Add('format')->Title('Format')->ValueDefault('Y-m-d H:i:s'),
-            ])->ActionData(TestAction::class),
-        ], 'app');
     }
 }
