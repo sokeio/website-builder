@@ -23,7 +23,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
 
-      - name: Copy release_gitignore to .gitignore
+      - name: copy release_gitignore to .gitignore
         run: |
           cp release_gitignore .gitignore
       - name: composer install
