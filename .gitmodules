@@ -1,0 +1,3 @@
+[submodule "platform/modules/builder"]
+	path = platform/modules/builder
+	url = https://github.com/sokeio/builder.git

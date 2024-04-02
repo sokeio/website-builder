@@ -1,0 +1,6 @@
+{
+    "name": "Sokeio Framework",
+    "modules": ["builder"],
+    "themes": [],
+    "version": "1.0.0"
+}
