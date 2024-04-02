@@ -22,9 +22,6 @@ https://github.com/sokeio/framework
 https://github.com/sokeio/admin 
 
 https://github.com/sokeio/laravel 
-
- https://github.com/sokeio/grapesjs-builder
-
 Demo: https://pagebuilder.asia/
 
 Login: https://pagebuilder.asia/admin/auth/login
