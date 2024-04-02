@@ -26,12 +26,6 @@ jobs:
       - name: Copy release_gitignore to .gitignore
         run: |
           cp release_gitignore .gitignore
-      - name: npm install
-        run: |
-          npm i
-      - name: npm run prod
-        run: |
-          npm run prod
       - name: composer install
         run: |
           rm -fR .github
