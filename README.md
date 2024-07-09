@@ -24,9 +24,13 @@ https://github.com/sokeio/framework
 https://github.com/sokeio/admin 
 
 https://github.com/sokeio/laravel 
-Demo: https://pagebuilder.asia/
+Demo: https://studio.sokeio.com/
 
-Login: https://pagebuilder.asia/admin/auth/login
+Login: https://studio.sokeio.com/admin/auth/login
+
+demo@sokeio.com
+
+demo@123456
 
 
 Video Tutorial:
