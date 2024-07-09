@@ -6,6 +6,8 @@ I'm refactoring the code.
 
 Please wait some more time.
 
+email contact: nguyenvanhaudev@gmail.com
+
 join facebook Sokeio Community: https://www.facebook.com/groups/sokeio
 
 
