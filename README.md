@@ -100,7 +100,7 @@ You can install package via composer
 ```bash
 $ composer install
 $ php artisan migrate
-$ php artisan b:setup
+$ php artisan so:setup
 $ php artisan vendor:publish --tag=lfm_config
 $ php artisan vendor:publish --tag=lfm_public
 
