@@ -10,6 +10,8 @@ email contact: nguyenvanhaudev@gmail.com
 
 join facebook Sokeio Community: https://www.facebook.com/groups/sokeio
 
+https://discord.gg/eaj9nR3n
+
 
 <p align="center"><img style="width:60px; border-radius: 3px;" src="./bytechasia_logo.jpg">
 <img src="https://laravel.com/assets/img/components/logo-laravel.svg">
