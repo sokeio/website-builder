@@ -1,0 +1,33 @@
+{
+  "name": "sokeio/builder",
+  "description": "",
+  "authors": [
+    {
+      "name": "Nguyen Van Hau",
+      "email": "nguyenvanhaudev@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "require": {
+    "php": "^8.1"
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Sokeio\\Builder\\BuilderServiceProvider"
+      ],
+      "aliases": {}
+    }
+  },
+  "autoload": {
+    "files": [
+      "helpers/constraint.php",
+      "helpers/function.php"
+    ],
+    "psr-4": {
+      "Sokeio\\Builder\\": "src",
+      "Sokeio\\Builder\\Database\\Factories\\": "database/factories",
+      "Sokeio\\Builder\\Database\\Seeders\\": "database/seeders"
+    }
+  }
+}

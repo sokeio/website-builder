@@ -1,0 +1,12 @@
+{
+  "id": "sokeio-builder-free",
+  "name": "Sokeio Builder",
+  "version": "v1.0.0",
+  "alias": "builder",
+  "description": "",
+  "keywords": [],
+  "priority": 200,
+  "aliases": {},
+  "namespace": "Sokeio\\Builder",
+  "requires": []
+}
