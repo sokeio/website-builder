@@ -2,7 +2,7 @@
 
 namespace App\Actions;
 
-use Sokeio\Concerns\WithAction;
+use Sokeio\Core\Concerns\WithAction;
 
 class TestAction
 {

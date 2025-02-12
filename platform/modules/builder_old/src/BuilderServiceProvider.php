@@ -5,7 +5,7 @@ namespace Sokeio\Builder;
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\ServiceProvider;
 use Sokeio\Laravel\ServicePackage;
-use Sokeio\Concerns\WithServiceProvider;
+use Sokeio\Core\Concerns\WithServiceProvider;
 use Sokeio\Facades\Menu;
 use Sokeio\Facades\Platform;
 use Sokeio\Platform\DataInfo;
