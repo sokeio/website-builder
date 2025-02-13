@@ -1,0 +1,27 @@
+{
+    "name": "sokeio/module-websitebuilder",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nguyen Van Hau",
+            "email": "nguyenvanhaudev@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": ["Sokeio\\Module\\WebsiteBuilder\\WebsiteBuilderServiceProvider"],
+            "aliases": {}
+        }
+    },
+    "autoload": {
+         "files": [
+            "helpers/constraint.php",
+            "helpers/function.php"
+        ],
+        "psr-4": {
+            "Sokeio\\Module\\WebsiteBuilder\\": "src",
+            "Sokeio\\Module\\WebsiteBuilder\\Database\\Factories\\": "database/factories",
+            "Sokeio\\Module\\WebsiteBuilder\\Database\\Seeders\\": "database/seeders"
+        }
+    }
+}

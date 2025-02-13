@@ -1,0 +1,12 @@
+{
+    "id":"sokeio-module-websitebuilder",
+    "name": "$VENDOR WebsiteBuilder",
+    "version":"v1.0.0",
+    "alias": "websitebuilder",
+    "description": "",
+    "keywords": [],
+    "priority": 200,
+    "aliases": {},
+    "namespace":"Sokeio\\Module\\WebsiteBuilder",
+    "requires": []
+}

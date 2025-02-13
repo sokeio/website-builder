@@ -1,0 +1,30 @@
+{
+    "id": "sokeio-theme-websitebuilder",
+    "name": "Website Builder",
+    "version": "v1.0.0",
+    "alias": "websitebuilder",
+    "description": "",
+    "keywords": [],
+    "priority": 200,
+    "aliases": {},
+    "namespace": "Sokeio\\Theme\\WebsiteBuilder",
+    "tailwindcss": {
+        "enable": false,
+        "inline": true,
+        "obfuscator": true,
+        "cdn": "https://cdn.tailwindcss.com",
+        "plugins": [
+            "forms",
+            "typography",
+            "aspect-ratio",
+            "line-clamp",
+            "container-queries"
+        ]
+    },
+    "templates": [],
+    "locations": [],
+    "layouts": {
+        "default": "Theme Default"
+    },
+    "requires": []
+}

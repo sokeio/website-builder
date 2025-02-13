@@ -1,0 +1,27 @@
+{
+    "name": "sokeio/theme-websitebuilder",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nguyen Van Hau",
+            "email": "nguyenvanhaudev@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": ["Sokeio\\Theme\\WebsiteBuilder\\WebsiteBuilderServiceProvider"],
+            "aliases": {}
+        }
+    },
+    "autoload": {
+         "files": [
+            "helpers/constraint.php",
+            "helpers/function.php"
+        ],
+        "psr-4": {
+            "Sokeio\\Theme\\WebsiteBuilder\\": "src",
+            "Sokeio\\Theme\\WebsiteBuilder\\Database\\Factories\\": "database/factories",
+            "Sokeio\\Theme\\WebsiteBuilder\\Database\\Seeders\\": "database/seeders"
+        }
+    }
+}

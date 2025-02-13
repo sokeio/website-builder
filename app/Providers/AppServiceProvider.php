@@ -2,9 +2,7 @@
 
 namespace App\Providers;
 
-use App\Actions\TestAction;
 use Illuminate\Support\ServiceProvider;
-use Sokeio\Cms\Facades\Shortcode;
 
 class AppServiceProvider extends ServiceProvider
 {
